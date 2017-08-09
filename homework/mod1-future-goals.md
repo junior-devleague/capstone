@@ -11,4 +11,4 @@ Write a blog about the following topics:
 
 - Your blog post should be at least a 3 min read.
 
-### Due Date: 8/11/17
+### Due Date: 8/14/17

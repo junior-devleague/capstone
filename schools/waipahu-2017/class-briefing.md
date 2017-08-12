@@ -33,6 +33,6 @@ Format of the class was as follows:
 ### Resources
 [Babel](https://babeljs.io/)
 
-[ES6 Compatibility](https://kangax.github.io/compat-table/es6/)
+[ES6 Browser Compatibility](https://kangax.github.io/compat-table/es6/)
 
 

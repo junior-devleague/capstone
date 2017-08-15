@@ -36,3 +36,25 @@ Format of the class was as follows:
 [ES6 Browser Compatibility](https://kangax.github.io/compat-table/es6/)
 
 
+# Class Recap - Week 2 - 8/14/2017 9:25am - 10:45am
+
+### Topics
+Format of the class was as follows:
+- Continued exploration of ES6 with live-coding examples of arrow functions, const, and functional array methods.
+- Started introduction to object orientated programming with javascript.
+
+**Homework: Blog 2 is due 8/18/17**
+
+### Homework
+[What is server-side development](https://github.com/junior-devleague/capstone/blob/master/homework/mod2-what-is-server-side-developemnt.md)
+
+**Due Date:** 8/18/2017
+- Submit the url to your blog post in Slack by end of school day Friday 8/18/17.
+- No late assignments accepted.
+
+### Resources
+[ES6 Browser Compatibility](https://kangax.github.io/compat-table/es6/)
+
+[ES6 OOP](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
+
+

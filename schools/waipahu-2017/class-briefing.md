@@ -61,7 +61,6 @@ Format of the class was as follows:
 
 ### Topics
 Format of the class was as follows:
-- Went over securing your home network.
 - Continued exploration of ES6 OOP, inheritance, creating new instances of a class, accessors, properties.
 - finished up with OOP slides.
 - Will live-code OOP example next class, and will assign OOP project

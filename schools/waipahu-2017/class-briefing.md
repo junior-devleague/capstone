@@ -57,4 +57,26 @@ Format of the class was as follows:
 
 [ES6 OOP](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
 
+# Class Recap - Week 2 - 8/16/2017 9:31am - 10:57am
+
+### Topics
+Format of the class was as follows:
+- Continued exploration of ES6 OOP, inheritance, creating new instances of a class, accessors.
+- finished up with OOP slides.
+- Will live-code OOP example next class, and will assign OOP project
+
+**Homework Reminder: Blog 2 is due 8/18/17**
+
+### Homework
+[What is server-side development](https://github.com/junior-devleague/capstone/blob/master/homework/mod2-what-is-server-side-developemnt.md)
+
+**Due Date:** 8/18/2017
+- Submit the url to your blog post in Slack by end of school day Friday 8/18/17.
+- No late assignments accepted.
+
+### Resources
+[ES6 OOP](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
+
+[ES6 Slides](http://slides.com/theremix/es6-oop#/2)
+
 

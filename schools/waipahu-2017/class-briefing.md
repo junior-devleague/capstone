@@ -80,3 +80,19 @@ Format of the class was as follows:
 [ES6 Slides](http://slides.com/theremix/es6-oop#/2)
 
 
+# Class Recap - Week 3 - 8/23/2017 9:25am - 10:57am
+
+### Topics
+Format of the class was as follows:
+- Updated computers with latest version of node to be able to run ES6.
+- Live-coded OOP example in depth.
+- Assigned OOP in class project [fantasy vehicles](https://github.com/junior-devleague/fantasy-vehicles)
+
+**Reminder: In class quiz over OOP/ES6 8/25/17**
+
+
+### Resources
+[ES6 OOP](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes)
+
+[ES6 Slides](http://slides.com/theremix/es6-oop#/2)
+

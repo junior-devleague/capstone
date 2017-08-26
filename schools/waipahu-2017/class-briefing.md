@@ -96,3 +96,15 @@ Format of the class was as follows:
 
 [ES6 Slides](http://slides.com/theremix/es6-oop#/2)
 
+
+# Class Recap - Week 3 - 8/25/2017 9:10am - 10:15am
+
+### Topics
+Format of the class was as follows:
+- Gave quiz over OOP/ES6
+- Went through the answers to the quiz and answered any questions.
+- Continued to work on [fantasy vehicles](https://github.com/junior-devleague/fantasy-vehicles) for the rest of class period.
+
+### Resources
+[API](https://en.wikipedia.org/wiki/Application_programming_interface)
+

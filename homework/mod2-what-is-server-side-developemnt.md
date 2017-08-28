@@ -12,4 +12,4 @@ You're getting ready for a job interview and as a screening process, the employe
   3. What is server-side development? 
   4. What is the difference between server-side development and client-side development? Any benefits of either? 
 
-### Due Date: 8/18/17
+

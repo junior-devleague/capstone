@@ -108,3 +108,14 @@ Format of the class was as follows:
 ### Resources
 [API](https://en.wikipedia.org/wiki/Application_programming_interface)
 
+# Class Recap - Week 4 - 8/28/2017 8:52am - 9:35am
+
+### Topics
+Format of the class was as follows:
+- Code wars for morning challenge with live-code solution.
+- Continued to work on [fantasy vehicles](https://github.com/junior-devleague/fantasy-vehicles) for the rest of class period.
+- Will live-code oop project solution 8/30 and provide code reviews.
+
+### Resources
+[Ajax Requests](https://en.wikipedia.org/wiki/Application_programming_interface)
+

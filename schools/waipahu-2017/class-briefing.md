@@ -119,3 +119,15 @@ Format of the class was as follows:
 ### Resources
 [Ajax Requests](https://en.wikipedia.org/wiki/Application_programming_interface)
 
+
+# Class Recap - Week 4 - 8/30/2017 9:31am - 10:57am
+
+### Topics
+Format of the class was as follows:
+- Started class with code wars and 10 minutes to finish up OOP project.
+- Live-coded OOP project solution and took questions.
+- Started server-side dev/api by talking about Ajax requests and introduced concept with quick jQuery http request and DOM manipulation. 
+
+### Resources
+[Ajax Requests with jQuery](https://www.sitepoint.com/use-jquerys-ajax-function/)
+

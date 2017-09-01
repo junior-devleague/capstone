@@ -145,3 +145,22 @@ Format of the class was as follows:
 ### Resources
 [Ajax Requests with jQuery](https://www.sitepoint.com/use-jquerys-ajax-function/)
 
+
+# Class Recap - Week 4 - 9/21/2017 9:25am - 10:45am
+
+### Topics
+Format of the class was as follows:
+- Started class with code wars and live-coded solution using ES6.
+- Continued talking about jQuery and started to live-code a more detailed example using Ajax and DOM Manipulation.
+- Briefly talked about JSON and how it's used and format.
+
+### Homework Reminder:
+[Explain OOP eli5](https://github.com/junior-devleague/capstone/blob/master/homework/mod2-explain-oop-eli5.md)
+
+**Due Date: 9/1/2017**
+- Submit the url to your blog post in Slack by end of school day Friday 8/18/17.
+- No late assignments accepted.
+
+### Resources
+[jQuery Ajax](https://api.jquery.com/jQuery.ajax/)
+

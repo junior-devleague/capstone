@@ -176,6 +176,8 @@ Format of the class was as follows:
 
 ### Resources
 [jQuery Ajax](https://api.jquery.com/jQuery.ajax/)
+
 [Public API's](https://github.com/toddmotto/public-apis)
+
 [Postman](https://www.getpostman.com/)
 

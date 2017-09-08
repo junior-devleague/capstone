@@ -146,7 +146,7 @@ Format of the class was as follows:
 [Ajax Requests with jQuery](https://www.sitepoint.com/use-jquerys-ajax-function/)
 
 
-# Class Recap - Week 4 - 9/21/2017 9:25am - 10:45am
+# Class Recap - Week 4 - 9/1/2017 9:25am - 10:45am
 
 ### Topics
 Format of the class was as follows:
@@ -163,4 +163,19 @@ Format of the class was as follows:
 
 ### Resources
 [jQuery Ajax](https://api.jquery.com/jQuery.ajax/)
+
+# Class Recap - Week 5 - 9/1/2017 9:25am - 10:45am
+
+### Topics
+Format of the class was as follows:
+- Started class with code wars and live-coded solution for them. Some students had questions with map and reduce so live-coded examples using them and went into detail how they are really working, and explained how unary plus conversion works.
+- Began talking about API's again and walking through a public JSON API and inspecting the routes. 
+- Demo of how to send http requests using postman and benefits of the tool for development purposes.
+- Live-coded hitting API using jQuery Ajax call and inspecting the JSON that was returned.
+
+
+### Resources
+[jQuery Ajax](https://api.jquery.com/jQuery.ajax/)
+[Public API's](https://github.com/toddmotto/public-apis)
+[Postman](https://www.getpostman.com/)
 

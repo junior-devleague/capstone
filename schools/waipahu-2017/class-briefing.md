@@ -181,3 +181,21 @@ Format of the class was as follows:
 
 [Postman](https://www.getpostman.com/)
 
+# Class Recap - Week 6 - 9/11/2017 9:40am - 10:23am
+
+### Topics
+Format of the class was as follows:
+- Started class with code wars and live-coded solution using spread operator. 
+- Explained how to use spread operators and live-coded quick examples before class was over.
+
+### Homework:
+[What is Node](https://github.com/junior-devleague/capstone/blob/master/homework/mod2-what-is-node.md)
+
+**Due Date: 9/15/2017**
+- Submit the url to your blog post in Slack by end of school day Friday 8/18/17.
+- No late assignments accepted.
+
+### Resources
+[Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator)
+
+

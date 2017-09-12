@@ -192,7 +192,7 @@ Format of the class was as follows:
 [What is Node](https://github.com/junior-devleague/capstone/blob/master/homework/mod2-what-is-node.md)
 
 **Due Date: 9/15/2017**
-- Submit the url to your blog post in Slack by end of school day Friday 8/18/17.
+- Submit the url to your blog post in Slack by end of school day Friday 9/15/17.
 - No late assignments accepted.
 
 ### Resources

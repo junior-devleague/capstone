@@ -216,6 +216,7 @@ Format of the class was as follows:
 
 ### Resources
 [jQuery GET](https://api.jquery.com/jQuery.get/)
+
 [jQuery Ajax](https://api.jquery.com/jQuery.ajax/)
 
 

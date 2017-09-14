@@ -199,3 +199,23 @@ Format of the class was as follows:
 [Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator)
 
 
+# Class Recap - Week 6 - 9/13/2017 9:25am - 10:58am
+
+### Topics
+Format of the class was as follows:
+- Started class with code wars and  live-coded multiple solutions. 
+- Covered new array methods every() and some().
+- Rest of class used to practice building HTTP requests using JQuery to hit a JSON API.
+
+### Homework:
+[What is Node](https://github.com/junior-devleague/capstone/blob/master/homework/mod2-what-is-node.md)
+
+**Due Date: 9/15/2017**
+- Submit the url to your blog post in Slack by end of school day Friday 9/15/17.
+- No late assignments accepted.
+
+### Resources
+[jQuery GET](https://api.jquery.com/jQuery.get/)
+[jQuery Ajax](https://api.jquery.com/jQuery.ajax/)
+
+

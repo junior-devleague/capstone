@@ -219,4 +219,15 @@ Format of the class was as follows:
 
 [jQuery Ajax](https://api.jquery.com/jQuery.ajax/)
 
+# Class Recap - Week 7 - 9/18/2017 8:52am - 9:35am
 
+### Topics
+Format of the class was as follows:
+- Class started by taking any questions about the project so far / issues having.
+- Class time used to work on API project.
+
+### Homework:
+No blog this week.
+
+### Resources
+[jQuery Ajax](https://api.jquery.com/jQuery.ajax/)

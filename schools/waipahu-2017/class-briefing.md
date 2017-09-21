@@ -231,3 +231,17 @@ No blog this week.
 
 ### Resources
 [jQuery Ajax](https://api.jquery.com/jQuery.ajax/)
+
+
+# Class Recap - Week 7 - 9/20/2017 9:31am - 10:57am
+
+### Topics
+Format of the class was as follows:
+- Class started with quick Scrum to see where everyone is at with their API project.
+- Jam time rest of class to work on finishing up API project.
+
+### Homework:
+No blog this week.
+
+### Resources
+

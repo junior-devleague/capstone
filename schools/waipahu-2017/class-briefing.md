@@ -245,3 +245,16 @@ No blog this week.
 
 ### Resources
 
+# Class Recap - Week 7 - 9/22/2017 9:10am - 10:15am
+
+### Topics
+Format of the class was as follows:
+- Class started with quick Scrum to see where everyone is at with their API project.
+- Jam time rest of class to work on finishing up API project.
+- Will be presenting your solution next class.
+
+### Homework:
+Enjoy Homecoming
+
+### Resources
+[Debugging in Node](https://www.youtube.com/watch?v=Xb_0awoShR8)

@@ -258,3 +258,21 @@ Enjoy Homecoming
 
 ### Resources
 [Debugging in Node](https://www.youtube.com/watch?v=Xb_0awoShR8)
+
+# Class Recap - Week 8 - 9/25/2017 8:52am - 9:35am
+
+### Topics
+Format of the class was as follows:
+- Class started with recognizing team No-Internet of their HACC achievement.
+- Live-coded API solution.
+- Students presented their solution to the class.
+
+### Homework:
+[What is cloudl computing](https://github.com/junior-devleague/capstone/blob/master/homework/mod3-cloud-computing.md)
+
+**Due Date: 9/29/2017**
+- Submit the url to your blog post in Slack by 4pm Friday 9/29/17.
+- No late assignments accepted.
+
+### Resources
+[Cloud Computing](https://aws.amazon.com/what-is-cloud-computing/)

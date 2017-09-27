@@ -276,3 +276,23 @@ Format of the class was as follows:
 
 ### Resources
 [Cloud Computing](https://aws.amazon.com/what-is-cloud-computing/)
+
+
+# Class Recap - Week 8 - 9/27/2017 9:32am - 10:57am
+
+### Topics
+Format of the class was as follows:
+- Class started by asking what is the difference between API and server.
+- Started talking about server-side developement.
+- Live coded an example server with two routes and how the work is done on the server for the client.
+- Showed real examples of full stack applications.
+
+### Homework Reminder:
+[What is cloudl computing](https://github.com/junior-devleague/capstone/blob/master/homework/mod3-cloud-computing.md)
+
+**Due Date: 9/29/2017**
+- Submit the url to your blog post in Slack by 4pm Friday 9/29/17.
+- No late assignments accepted.
+
+### Resources
+[What is Express.js?](https://expressjs.com/)

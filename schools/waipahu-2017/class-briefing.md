@@ -296,3 +296,24 @@ Format of the class was as follows:
 
 ### Resources
 [What is Express.js?](https://expressjs.com/)
+
+
+# Class Recap - Week 8 - 9/29/2017 9:25am - 10:45am
+
+### Topics
+Format of the class was as follows:
+- Class started by asking what is cloudl computing.
+- Began whiteboard exercise of full stack application and how built using cloud services.
+- Live demo of building simple lamba function and testing.
+- Overview of services used for development such as S3, api gateway, lamba, DB, and cognito.
+
+### Homework Reminder:
+[What is cloudl computing](https://github.com/junior-devleague/capstone/blob/master/homework/mod3-cloud-computing.md)
+
+**Due Date: 9/29/2017**
+- Submit the url to your blog post in Slack by 4pm Friday 9/29/17.
+- No late assignments accepted.
+
+### Resources
+[AWS Lambda](https://aws.amazon.com/lambda/)
+[API Gateway](https://aws.amazon.com/api-gateway/) 

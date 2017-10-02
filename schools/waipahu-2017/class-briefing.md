@@ -317,3 +317,16 @@ Format of the class was as follows:
 ### Resources
 [AWS Lambda](https://aws.amazon.com/lambda/)
 [API Gateway](https://aws.amazon.com/api-gateway/) 
+
+
+# Class Recap - Week 9 - 10/2/2017 8:52am - 9:35am
+
+### Topics
+Format of the class was as follows:
+- Class started with whiteboarding full stack application using cloud services.
+- Install fest of serverless and aws cli.
+- Talked about AWS accounts and direction for the week.
+
+### Resources
+[Quick AWS Tutorials](https://aws.amazon.com/getting-started/tutorials/)
+

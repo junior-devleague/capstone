@@ -330,3 +330,12 @@ Format of the class was as follows:
 ### Resources
 [Quick AWS Tutorials](https://aws.amazon.com/getting-started/tutorials/)
 
+
+# Class Recap - Week 9 - 10/4/2017 9:32am - 10:57am
+
+### Topics
+Format of the class was as follows:
+- Spent duration of class doing code wars due to students attending conference.
+
+### Resources
+[Quick AWS Tutorials](https://aws.amazon.com/getting-started/tutorials/)

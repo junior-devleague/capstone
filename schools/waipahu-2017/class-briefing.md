@@ -339,3 +339,15 @@ Format of the class was as follows:
 
 ### Resources
 [Quick AWS Tutorials](https://aws.amazon.com/getting-started/tutorials/)
+
+# Class Recap - Week 9 - 10/6/2017 9:25am - 10:45am
+
+### Topics
+Format of the class was as follows:
+- Configured AWS cli with student keys.
+- Created first lamba function boilerplate using serverless
+- Explained structure of lamba function and yml 
+- Tested lamba function locally using serverless
+
+### Resources
+[Serverless AWS Guide](https://serverless.com/framework/docs/providers/aws/guide/quick-start/)

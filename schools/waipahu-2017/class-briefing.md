@@ -351,3 +351,13 @@ Format of the class was as follows:
 
 ### Resources
 [Serverless AWS Guide](https://serverless.com/framework/docs/providers/aws/guide/quick-start/)
+
+# Class Recap - Week 10 - 10/16/2017 8:52am - 9:35am
+
+### Topics
+Format of the class was as follows:
+- Re-issued AWS keys to students
+- Everyone successfully deployed except one student(Might have to type his access keys manually)
+
+### Resources
+[Serverless AWS Guide](https://serverless.com/framework/docs/providers/aws/guide/quick-start/)

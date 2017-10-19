@@ -361,3 +361,15 @@ Format of the class was as follows:
 
 ### Resources
 [Serverless AWS Guide](https://serverless.com/framework/docs/providers/aws/guide/quick-start/)
+
+# Class Recap - Week 10 - 10/18/2017 8:52am - 9:35am
+
+### Topics
+Format of the class was as follows:
+- Live coded on how to create dummy JSON data and how to pass it into their lambda functions
+- Students passed in their own data to create an age-calculator in their Lambda
+- Went over the solution and ansered any questions
+- Talked about participating in Hacktoberfest
+
+### Resources
+[Serverless AWS Guide](https://serverless.com/framework/docs/providers/aws/guide/quick-start/)

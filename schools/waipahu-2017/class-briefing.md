@@ -385,4 +385,5 @@ Format of the class was as follows:
 
 ### Resources
 [AWS s3 Create Bucket] https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
+
 [Tyler's s3 Gist] https://gist.github.com/tylernchls/e11323ce0e5ec4aef48562dd1bcee849

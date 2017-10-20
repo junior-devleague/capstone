@@ -373,3 +373,16 @@ Format of the class was as follows:
 
 ### Resources
 [Serverless AWS Guide](https://serverless.com/framework/docs/providers/aws/guide/quick-start/)
+
+# Class Recap - Week 10 - 10/20/2017 9:25am - 10:45am
+
+### Topics
+Format of the class was as follows:
+- Live coded on how to create s3 buckets
+- Students were able to upload an image to their s3 buckets
+- Majority of students were able to give their s3 buckets access to create a static website 
+- Showed students how to access their static website endpoint url
+
+### Resources
+[AWS s3 Create Bucket] https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
+[Tyler's s3 Gist] https://gist.github.com/tylernchls/e11323ce0e5ec4aef48562dd1bcee849

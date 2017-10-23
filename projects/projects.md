@@ -1,3 +1,5 @@
-# Projects
+AWS
+- [AWS Photo-Bucket](https://github.com/junior-devleague/aws-photo-bucket)
 
-API/jQuery Challenge: [star-wars-mania](https://github.com/junior-devleague/star-wars-mania)
+HTTP/JQuery
+- [Star Wars Mania](https://github.com/junior-devleague/star-wars-mania)

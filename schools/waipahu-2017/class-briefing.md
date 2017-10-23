@@ -387,3 +387,19 @@ Format of the class was as follows:
 [AWS s3 Create Bucket](https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html)
 
 [Tyler's s3 Gist](https://gist.github.com/tylernchls/e11323ce0e5ec4aef48562dd1bcee849)
+
+# Class Recap - Week 11 - 10/23/2017 8:52am - 9:35am
+
+### Topics
+Format of the class was as follows:
+- Assigned aws-photo-bucket to students
+- Whiteboarded the architecture of the assignment, went over naming conventions, and file structure
+- Carefully over aws-photo-bucket step by step 
+
+### Resources
+[AWS s3 Create Bucket](https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html)
+
+[Tyler's s3 Gist](https://gist.github.com/tylernchls/e11323ce0e5ec4aef48562dd1bcee849)
+
+[listObjects Method](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#listObjects-property)
+

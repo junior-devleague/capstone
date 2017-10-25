@@ -403,3 +403,19 @@ Format of the class was as follows:
 
 [listObjects Method](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#listObjects-property)
 
+# Class Recap - Week 11 - 10/25/2017 9:32am - 10:57am
+
+### Topics
+Format of the class was as follows:
+- Did quick review of the architecture of aws-photo-bucket assignment
+- Helped students set up their project by setting up their http get endpoint
+- Public Schools of Hawaii Foundation stopped by and took professional pictures for their board meeting
+
+### Resources
+[AWS s3 Create Bucket](https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html)
+
+[Tyler's s3 Gist](https://gist.github.com/tylernchls/e11323ce0e5ec4aef48562dd1bcee849)
+
+[listObjects Method](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#listObjects-property)
+
+[Serverless API Gateway](https://serverless.com/framework/docs/providers/aws/events/apigateway/)

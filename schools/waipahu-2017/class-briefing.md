@@ -419,3 +419,11 @@ Format of the class was as follows:
 [listObjects Method](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#listObjects-property)
 
 [Serverless API Gateway](https://serverless.com/framework/docs/providers/aws/events/apigateway/)
+
+# Class Recap - Week 11 - 10/27/2017 9:25am - 10:45am
+
+### Topics
+Format of the class was as follows:
+- Continued to Jam on aws-photo-bucket
+- Student's are in the process of invokin their Lambda function locally
+

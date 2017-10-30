@@ -427,3 +427,13 @@ Format of the class was as follows:
 - Continued to Jam on aws-photo-bucket
 - Student's are in the process of invokin their Lambda function locally
 
+
+# Class Recap - Week 12 - 10/30/2017 8:52am - 9:35am
+
+### Topics
+Format of the class was as follows:
+- Continued to Jam on aws-photo-bucket
+
+### Resources
+[AWS invoke local](https://docs.aws.amazon.com/lambda/latest/dg/with-userapp-walkthrough-custom-events-invoke.html)
+

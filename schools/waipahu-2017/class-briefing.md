@@ -447,5 +447,18 @@ Format of the class was as follows:
 
 ### Resources
 [AWS invoke local](https://docs.aws.amazon.com/lambda/latest/dg/with-userapp-walkthrough-custom-events-invoke.html)
-[Serverless invoke loack](https://serverless.com/framework/docs/providers/aws/cli-reference/invoke-local/)
+[Serverless invoke loacal](https://serverless.com/framework/docs/providers/aws/cli-reference/invoke-local/)
+
+# Class Recap - Week 12 - 9:25am - 10:45am
+
+### Topics
+Format of the class was as follows:
+- Talked about final project and the schedule forward
+- Continued to Jam on aws-photo-bucket
+- Students are building client-side
+- AWS Problem: Existing deployed Lambda functions are erased when another student serveless deploys
+
+### Resources
+[AWS invoke local](https://docs.aws.amazon.com/lambda/latest/dg/with-userapp-walkthrough-custom-events-invoke.html)
+
 

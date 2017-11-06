@@ -449,7 +449,7 @@ Format of the class was as follows:
 [AWS invoke local](https://docs.aws.amazon.com/lambda/latest/dg/with-userapp-walkthrough-custom-events-invoke.html)
 [Serverless invoke loacal](https://serverless.com/framework/docs/providers/aws/cli-reference/invoke-local/)
 
-# Class Recap - Week 12 - 9:25am - 10:45am
+# Class Recap - Week 12 - 11/3/2017 - 9:25am - 10:45am
 
 ### Topics
 Format of the class was as follows:
@@ -461,4 +461,15 @@ Format of the class was as follows:
 ### Resources
 [AWS invoke local](https://docs.aws.amazon.com/lambda/latest/dg/with-userapp-walkthrough-custom-events-invoke.html)
 
+# Class Recap - Week 13 - 11/6/2017 9:25am - 10:45am
+
+### Topics
+Format of the class was as follows:
+- Continued to Jam on aws-photo-bucket
+- Fixed the aws problem last week
+- We had to work on some CORS issues, students were able to get their data near the end of class
+- They are now working on parsing through the data and rendering images on client side
+
+### Resources
+[AWS invoke local](https://docs.aws.amazon.com/lambda/latest/dg/with-userapp-walkthrough-custom-events-invoke.html)
 

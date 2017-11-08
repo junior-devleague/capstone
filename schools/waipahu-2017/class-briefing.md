@@ -473,3 +473,16 @@ Format of the class was as follows:
 ### Resources
 [AWS invoke local](https://docs.aws.amazon.com/lambda/latest/dg/with-userapp-walkthrough-custom-events-invoke.html)
 
+# Class Recap - Week 13 - 11/6/2017 9:32am - 10:57am
+
+### Topics
+Format of the class was as follows:
+- Speaker from Lanikila Meals on Wheels pitched their application idea to the class
+- Students asked good questions to get a more clear picture of speaker's idea
+- Tyler talked about the importance of managing expectations
+- Students worked on getting their static page up in aws-photo-bucket
+
+### Resources
+[AWS invoke local](https://docs.aws.amazon.com/lambda/latest/dg/with-userapp-walkthrough-custom-events-invoke.html)
+
+

@@ -485,7 +485,7 @@ Format of the class was as follows:
 ### Resources
 [AWS invoke local](https://docs.aws.amazon.com/lambda/latest/dg/with-userapp-walkthrough-custom-events-invoke.html)
 
-# Class Recap - Week 14 - 11/13/2017 9:40am - 10:23am
+# Class Recap - Week 14 - 11/13/2017 8:52am - 9:35am
 
 ### Topics
 Format of the class was as follows:

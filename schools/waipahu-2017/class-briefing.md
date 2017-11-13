@@ -485,4 +485,13 @@ Format of the class was as follows:
 ### Resources
 [AWS invoke local](https://docs.aws.amazon.com/lambda/latest/dg/with-userapp-walkthrough-custom-events-invoke.html)
 
+# Class Recap - Week 14 - 11/13/2017 9:40am - 10:23am
+
+### Topics
+Format of the class was as follows:
+- Finished uploading client files to s3 and enable static web hosting
+- Talk about out look for the week and next project
+- Live-code aws solution next class
+
+
 

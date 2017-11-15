@@ -493,5 +493,19 @@ Format of the class was as follows:
 - Talk about out look for the week and next project
 - Live-code aws solution next class
 
+# Class Recap - Week 14 - 11/13/2017 9:25am - 10:45am
+
+### Topics
+Format of the class was as follows:
+- Live-code solution to aws-photo-buck
+- Lectured about relational databases
+- Installed postgresql, created databases, table, insert, and select query
+- Will go over updated and delete next class
+- Will go over express server and postgres demo next class
+
+### Resources
+[PostgreSQL Docs](https://www.postgresql.org/docs/)
+[Tutorial Point Docs of PostgreSQL](https://www.tutorialspoint.com/postgresql/)
+
 
 

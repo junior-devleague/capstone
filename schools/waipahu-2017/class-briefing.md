@@ -507,5 +507,19 @@ Format of the class was as follows:
 [PostgreSQL Docs](https://www.postgresql.org/docs/)
 [Tutorial Point Docs of PostgreSQL](https://www.tutorialspoint.com/postgresql/)
 
+# Class Recap - Week 14 - 11/13/2017 9:25am - 10:45am
 
+### Topics
+Format of the class was as follows:
+- Continued live-code about postgreSQL
+- Students have a better understanding of CRUD operations after running queries in postgres cli
+- Explained ORM and Sequelize
+- Had students set up express-postgreSQL demo project with config file
+- Will be going over how express server talks to the postgreSQL database
+
+### Resources
+[PostgreSQL Docs](https://www.postgresql.org/docs/)
+[Tutorial Point Docs of PostgreSQL](https://www.tutorialspoint.com/postgresql/)
+[Sequelize Docs](http://docs.sequelizejs.com/)
+[Express Server](https://expressjs.com/en/guide/routing.html)
 

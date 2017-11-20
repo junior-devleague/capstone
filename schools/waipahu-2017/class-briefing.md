@@ -523,3 +523,11 @@ Format of the class was as follows:
 [Sequelize Docs](http://docs.sequelizejs.com/)
 [Express Server](https://expressjs.com/en/guide/routing.html)
 
+# Class Recap - Week 10 - 10/16/2017 8:52am - 9:35am
+Format of the class was as follows:
+- Explained how to use Postman and api endpoints
+- Students are still setting up their config and startint to practice using Postman
+
+### Resources
+[Express Server](https://expressjs.com/en/guide/routing.html)
+[Postman Docs](https://www.getpostman.com/docs/)

@@ -531,3 +531,13 @@ Format of the class was as follows:
 ### Resources
 [Express Server](https://expressjs.com/en/guide/routing.html)
 [Postman Docs](https://www.getpostman.com/docs/)
+
+# Class Recap - Week 15 - 11/22/2017 9:25am - 10:45am
+Format of the class was as follows:
+- Continued with express server and postgres demo
+- Had issues with running sequelize and express server on student computers
+- OpTerra came in to pitch their idea
+
+### Resources
+[Express Server](https://expressjs.com/en/guide/routing.html)
+[Postman Docs](https://www.getpostman.com/docs/)

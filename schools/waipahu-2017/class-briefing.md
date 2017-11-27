@@ -541,3 +541,13 @@ Format of the class was as follows:
 ### Resources
 [Express Server](https://expressjs.com/en/guide/routing.html)
 [Postman Docs](https://www.getpostman.com/docs/)
+
+# Class Recap - Week 16 - 11/22/2017 8:52am - 9:35am
+Format of the class was as follows:
+- Finished up express server and postgres demo
+- Students were able to hit HTTP endpoints
+- We will be introducing them to movie-list project next class which is a full stack application using AWS and Postgres
+
+### Resources
+[Express Server](https://expressjs.com/en/guide/routing.html)
+[Postman Docs](https://www.getpostman.com/docs/)

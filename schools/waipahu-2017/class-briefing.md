@@ -542,7 +542,7 @@ Format of the class was as follows:
 [Express Server](https://expressjs.com/en/guide/routing.html)
 [Postman Docs](https://www.getpostman.com/docs/)
 
-# Class Recap - Week 16 - 11/22/2017 8:52am - 9:35am
+# Class Recap - Week 16 - 11/27/2017 8:52am - 9:35am
 Format of the class was as follows:
 - Finished up express server and postgres demo
 - Students were able to hit HTTP endpoints
@@ -551,3 +551,9 @@ Format of the class was as follows:
 ### Resources
 [Express Server](https://expressjs.com/en/guide/routing.html)
 [Postman Docs](https://www.getpostman.com/docs/)
+
+# Class Recap - Week 16 - 11/29/2017 9:32am - 10:57am
+Format of the class was as follows:
+- Nordstrom business pitch: had 4 ideas, but only 1 seems plausible
+- Told students that they should start looking into which company they want to work with
+- Introduced students to movie-list project, explained architecture and showed finished application

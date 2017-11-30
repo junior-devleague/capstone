@@ -8,7 +8,7 @@ Breif description of the challenge/problem your team is trying to solve.
 ## Project Proposal
 Description of your team's solution, include tech stack you will be using.
 
-## Project Structure
+## Project Plan
 List the milestones in your project and high level tasks for each, for example:
 - Create Design Wireframes and Mockups.
     - Wireframe for page 1

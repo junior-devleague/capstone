@@ -46,10 +46,12 @@ You may use any of the following text editors:
 - Set spaces: 2
 
 ## Git Flow
-<img src="./images/git-flow.png">
-Github Commit Messages:<br />
+Github Commit Messages:
+
   - What was completed, any current bugs.
   - Example: ‘completed top navigation in html, links do not work yet’
+  
+<img src="./images/git-flow.png"><br />
 
 <hr>
 

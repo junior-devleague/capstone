@@ -557,3 +557,10 @@ Format of the class was as follows:
 - Nordstrom business pitch: had 4 ideas, but only 1 seems plausible
 - Told students that they should start looking into which company they want to work with
 - Introduced students to movie-list project, explained architecture and showed finished application
+
+
+# Class Recap - Week 16 - 11/29/2017 9:25am - 10:45am
+Format of the class was as follows:
+- Blue Planet business pitch: help raise awareness about the importance of clean energy
+- We told the students to pick a company they are excited about regardless of what their pitch is.
+- Spent the remainder of the class talking about the final project template, then got into brainstorming and getting into groups. 

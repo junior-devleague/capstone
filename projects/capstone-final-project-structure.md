@@ -48,17 +48,24 @@ You may use any of the following text editors:
 ## Git Flow
 <img src="./images/git-flow.png">
 Github Commit Messages:<br />
-- What was completed, any current bugs.<br />
-- Example: ‘completed top navigation in html, links do not work yet’
+  - What was completed, any current bugs.
+  - Example: ‘completed top navigation in html, links do not work yet’
 
 <hr>
 
 ## Task Tracking
-- Each task should be tracked in GH project within the project repo
-- Create a new project in the team repo
-- Create a To-Do, In-Progress, and Done column within the newly created project board
-- Use GH Issues to create task lists for team members
-- Move the issues to their respective colum in the project board
+ - Each task should be tracked in GH project within the project repo
+ - Create a new project board in the team repo
+ - Create a To-Do, In-Progress, and Done column within the newly created project board<br />
+<img src="./images/Screen Shot 2017-11-30 at 1.41.54 PM.png"><br />
+  - Use GH Issues to create task lists for team members<br />
+<img src="./images/Screen Shot 2017-11-30 at 1.45.18 PM.png"><br />
+ - You may add labels to each issue.
+<img src="./images/Screen Shot 2017-11-30 at 1.45.48 PM.png"><br />
+ - You may also add a milestone label to each issue<br />
+<img src="./images/Screen Shot 2017-11-30 at 1.49.10 PM.png"><br />
+ - Move the issues to their respective colum in the project board
+<img src="./images/Screen Shot 2017-11-30 at 1.51.43 PM.png"> 
 
 ## Stretch Goals
 - Stretch goals should only be completed if development on MVP is completed. However, teams must stop development at development deadline, regardless if they finish stretch goals or not.

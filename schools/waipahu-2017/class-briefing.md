@@ -564,3 +564,10 @@ Format of the class was as follows:
 - Blue Planet business pitch: help raise awareness about the importance of clean energy
 - We told the students to pick a company they are excited about regardless of what their pitch is.
 - Spent the remainder of the class talking about the final project template, then got into brainstorming and getting into groups. 
+
+# Class Recap - Week 17 - 11/29/2017 8:52am - 9:32am
+Format of the class was as follows:
+- Finalized groups for final project.
+- Set up repos for the project.
+- Filled top part of project outline.
+- Talked about deadlines for this week.

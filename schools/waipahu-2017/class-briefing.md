@@ -571,3 +571,9 @@ Format of the class was as follows:
 - Set up repos for the project.
 - Filled top part of project outline.
 - Talked about deadlines for this week.
+
+# Class Recap - Week 17 - 12/4/2017 9:25am - 10:45am
+Format of the class was as follows:
+ - Reminded students to have their proposal and tech requiremnts completed by next class
+ - Mrs. Takara mentioned that Nordstrom was impressed with the class and were talking flying students out to Oregon for a summer internship
+ - Started work on AWS movie-list. All students were able create postgres instance in aws. They are now working on creating their CRUD routes with lambdas

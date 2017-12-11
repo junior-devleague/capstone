@@ -583,3 +583,9 @@ Format of the class was as follows:
  - Had students sumbit their project proposal for review
  - Gave students feedback and have them updated and re-submitted by 2pm today
  - Students continued to jam on movie-list. Currently working on their get request lambda
+
+# Class Recap - Week 18 - 12/11/2017 8:52am - 9:32am
+Format of the class was as follows:
+ - Short class
+ - Students continued to jam on movie-list
+ - Students are figuring out how to locally invoke lambdas to connect to their postgres database

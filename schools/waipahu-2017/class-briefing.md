@@ -589,3 +589,10 @@ Format of the class was as follows:
  - Short class
  - Students continued to jam on movie-list
  - Students are figuring out how to locally invoke lambdas to connect to their postgres database
+ 
+# Class Recap - Week 18 - 12/13/2017 9:32am - 10:57am
+Format of the class was as follows:
+ - Students continued to jam on movie-list
+ - Some students have started working on client side
+ - Kyle's computer is not allowing him to run serverless commands. Looks like a Windows user issue. We will look into it and hopefully find a solution
+ - Told Nordstrom group to update their project goal to be more specific

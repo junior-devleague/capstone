@@ -596,3 +596,10 @@ Format of the class was as follows:
  - Some students have started working on client side
  - Kyle's computer is not allowing him to run serverless commands. Looks like a Windows user issue. We will look into it and hopefully find a solution
  - Told Nordstrom group to update their project goal to be more specific
+ 
+ # Class Recap - Week 18 - 12/15/2017 9:25am - 10:45am
+Format of the class was as follows:
+ - Students continued to jam on movie-list
+ - Some students are stuck on the client side. We are running into CORS issues with AWS. 
+ - Kyle's computer seems to default to his Window's user account when trying to connect to his Postgres instance. We are looking into that
+ - Nordstrom group sent updated project plan

@@ -603,3 +603,7 @@ Format of the class was as follows:
  - Some students are stuck on the client side. We are running into CORS issues with AWS. 
  - Kyle's computer seems to default to his Window's user account when trying to connect to his Postgres instance. We are looking into that
  - Nordstrom group sent updated project plan
+ 
+ # Class Recap - Week 19 - 12/18/2017 9:25am - 10:45am
+ Format of the class was as follows:
+ - Students continued to jam on movie-list

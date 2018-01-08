@@ -607,3 +607,8 @@ Format of the class was as follows:
  # Class Recap - Week 19 - 12/18/2017 9:25am - 10:45am
  Format of the class was as follows:
  - Students continued to jam on movie-list
+
+ # Class Recap - Week 20 - 1/8/2018 9:25am - 10:45am
+ Format of the class was as follows:
+ - Students continued to jam on movie-list
+ - Having students continue working on proposal and updating their tech stack to get them to work outside of class

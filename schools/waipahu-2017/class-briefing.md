@@ -612,3 +612,13 @@ Format of the class was as follows:
  Format of the class was as follows:
  - Students continued to jam on movie-list
  - Having students continue working on proposal and updating their tech stack to get them to work outside of class
+ 
+  # Class Recap - Week 21 - 1/19/2018 9:32am - 10:57am
+ Format of the class was as follows:
+ - Live Demo of how to use gitHub projects
+ - Had students set up gitHub projects and assign issues to members of the group
+ - Students used class time to draw up wireframe and create a prototype
+ 
+ ### Resources
+[Closing Issue Keywords](https://help.github.com/articles/closing-issues-using-keywords/)
+ 

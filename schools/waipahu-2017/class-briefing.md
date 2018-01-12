@@ -613,7 +613,7 @@ Format of the class was as follows:
  - Students continued to jam on movie-list
  - Having students continue working on proposal and updating their tech stack to get them to work outside of class
  
-  # Class Recap - Week 21 - 1/19/2018 9:32am - 10:57am
+  # Class Recap - Week 20 - 1/10/2018 9:32am - 10:57am
  Format of the class was as follows:
  - Live Demo of how to use gitHub projects
  - Had students set up gitHub projects and assign issues to members of the group
@@ -621,4 +621,16 @@ Format of the class was as follows:
  
  ### Resources
 [Closing Issue Keywords](https://help.github.com/articles/closing-issues-using-keywords/)
+
+ # Class Recap - Week 20 - 1/12/2018 9:25am - 10:45am
+ Format of the class was as follows:
+ - Went over due dates with the students
+ - Students currently working on wireframes
+ - There are potentially future charges with Amazon Polly and Amazon Rekognition
+ - Amazon Polly: 5 Million characters per month during free tier, after free tier it'll be $4.00 per 1 million characters
+ https://aws.amazon.com/polly/pricing/
+ - Amazon Rekognition: 5000 images per month during free tier, then they charge after that per month
+ https://aws.amazon.com/rekognition/pricing/
+ 
+ 
  

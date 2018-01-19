@@ -632,12 +632,17 @@ Format of the class was as follows:
  - Amazon Rekognition: 5000 images per month during free tier, then they charge after that per month
  https://aws.amazon.com/rekognition/pricing/
  
- # Class Recap - Week 21 - 1/17/2018 9:25am - 10:45am
+ # Class Recap - Week 21 - 1/17/2018 9:32am - 10:57am
  Format of the class was as follows:
- - Students continued working on on wireframes and prototypes
+ - Students continued working on wireframes and prototypes
  - There are potentially future charges with Amazon Polly and Amazon Rekognition
  - Amazon Polly: 5 Million characters per month during free tier, after free tier it'll be $4.00 per 1 million characters
  https://aws.amazon.com/polly/pricing/
  - Amazon Rekognition: 5000 images per month during free tier, then they charge after that per month
  https://aws.amazon.com/rekognition/pricing/
  
+  # Class Recap - Week 21 - 1/17/2018 9:25am - 10:45am
+ Format of the class was as follows:
+ - Students continued working on wireframes and prototypes
+ - We set up an AWS group for Amazon Rekognition for Nordstrom team
+ - Lanikila team set up their own personal AWS for Amazon Polly

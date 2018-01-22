@@ -646,3 +646,11 @@ Format of the class was as follows:
  - Students continued working on wireframes and prototypes
  - We set up an AWS group for Amazon Rekognition for Nordstrom team
  - Lanikila team set up their own personal AWS for Amazon Polly
+ 
+   # Class Recap - Week 22 - 1/22/2018 9:25am - 10:45am
+ Format of the class was as follows:
+ - Wireframes/Mockups due today
+ - Nordstrom: https://wireframepro.mockflow.com/view/Dfab2c84fe72e7f32007231c5e3779c7d
+ - Blue Planet seemed to have wireframe and prototype confused. They sent me the prototype instead. We went over what a wireframe is and showed them examples. Gave them till wednesday to finish wireframe.
+ - Lanakila: 2 members could not attend class today due to prior engagements for another class. They will send me their wireframes by EOD. 
+

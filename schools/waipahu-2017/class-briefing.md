@@ -657,8 +657,8 @@ Format of the class was as follows:
  # Class Recap - Week 22 - 1/24/2018 :32am - 10:57am
  Format of the class was as follows:
  - Students have until today and next class to work on proposal on how to better school wifi security and overall network security
- Wireframes
- - Nordstrom: https://wireframepro.mockflow.com/view/Dfab2c84fe72e7f32007231c5e3779c7d
- - Lanakila: https://drive.google.com/drive/folders/1kc9ucjNB1RCq8MsqQtGR7ZuuRp4tr1lu
- - Blue Planet: https://wireframepro.mockflow.com/view/D1948f970ecf07c95b3161a30e79ef869
+ - Wireframes
+   - Nordstrom: https://wireframepro.mockflow.com/view/Dfab2c84fe72e7f32007231c5e3779c7d
+   - Lanakila: https://drive.google.com/drive/folders/1kc9ucjNB1RCq8MsqQtGR7ZuuRp4tr1lu
+   - Blue Planet: https://wireframepro.mockflow.com/view/D1948f970ecf07c95b3161a30e79ef869
  

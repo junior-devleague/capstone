@@ -654,11 +654,27 @@ Format of the class was as follows:
  - Blue Planet seemed to have wireframe and prototype confused. They sent me the prototype instead. We went over what a wireframe is and showed them examples. Gave them till wednesday to finish wireframe.
  - Lanakila: 2 members could not attend class today due to prior engagements for another class. They will send me their wireframes by EOD. 
 
- # Class Recap - Week 22 - 1/24/2018 :32am - 10:57am
+ # Class Recap - Week 22 - 1/24/2018 9:32am - 10:57am
  Format of the class was as follows:
  - Students have until today and next class to work on proposal on how to better school wifi security and overall network security
  - Wireframes
    - Nordstrom: https://wireframepro.mockflow.com/view/Dfab2c84fe72e7f32007231c5e3779c7d
    - Lanakila: https://drive.google.com/drive/folders/1kc9ucjNB1RCq8MsqQtGR7ZuuRp4tr1lu
    - Blue Planet: https://wireframepro.mockflow.com/view/D1948f970ecf07c95b3161a30e79ef869
+   
+  # Class Recap - Week 23 - 1/29/2018 
+    - No Class
+    
+  # Class Recap - Week 23 - 1/31/2018 9:32am - 10:57am
+ Format of the class was as follows:
+   - Students continued to Jam on prototype, they have till 2/7 to finish prototyping
+   - Got better clarification of Blue Planet's project
+   - Students have until 2/28 to do a reverse pitch with their company's either in person or virtual
+   - Students have till 2/2 to email company
+   - Went over email etiquette
+   - Students will bcc Tyler, Nat, Jay, Cindy
+   - Important Dates
+     - 2/2: Deadline to email companies about reverse pitch
+     - 2/7: Prototypes due
+     - 2/28: Deadline to meet with companies about reverse pitch
  

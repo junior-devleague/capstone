@@ -678,3 +678,11 @@ Format of the class was as follows:
      - 2/7: Prototypes due
      - 2/28: Deadline to meet with companies about reverse pitch
  
+   # Class Recap - Week 23 - 2/2/2018 9:25am - 10:50am
+ Format of the class was as follows:
+   - Students finished up emails to client, proof read and have been sent. 
+   - Continued to work on prototyping.
+   - Important Dates
+     - 2/2: Deadline to email companies about reverse pitch
+     - 2/7: Prototypes due
+     - 2/28: Deadline to meet with companies about reverse pitch

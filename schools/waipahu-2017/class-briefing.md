@@ -686,3 +686,18 @@ Format of the class was as follows:
      - 2/2: Deadline to email companies about reverse pitch
      - 2/7: Prototypes due
      - 2/28: Deadline to meet with companies about reverse pitch
+     
+   # Class Recap - Week 24 - 2/5/2018 8:52am - 9:32am
+ Format of the class was as follows:
+   - Lanakila 
+     - Trying to get polly to work
+   - Blue Planet
+     - Switching over from phaser.js to animate.js http://animejs.com/
+     - The team realized that user phaser.js is overboard for their simple click game
+   - Nordstrom
+     - Still trying to get amazon rekognition to work
+     - The team is trying to reacreate this aws rekognition project https://github.com/serverless/examples/tree/master/aws-node-rekognition-analysis-s3-image
+     
+   - Important Dates
+     - 2/7: Prototypes due
+     - 2/28: Deadline to meet with companies about reverse pitch

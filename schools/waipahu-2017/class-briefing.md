@@ -701,3 +701,19 @@ Format of the class was as follows:
    - Important Dates
      - 2/7: Prototypes due
      - 2/28: Deadline to meet with companies about reverse pitch
+
+# Class Recap - Week 24 - 2/7/2018 9:32am - 10:57am
+ Format of the class was as follows:
+   - Lanakila 
+     - Completed prototype
+     - Getting SNS to work so they can send out mass sms messages
+   - Blue Planet
+     - Switching over from phaser.js to animate.js http://animejs.com/
+     - The team realized that user phaser.js is overboard for their simple click game
+   - Nordstrom
+     - Were able to analyze image in amazon s3 bucket
+     - Next task will be to send image directly to amazon rekognition for analyzation
+     
+   - Important Dates
+     - 2/9: Prototypes due
+     - 2/28: Deadline to meet with companies about reverse pitch

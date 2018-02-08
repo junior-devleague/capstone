@@ -716,4 +716,5 @@ Format of the class was as follows:
      
    - Important Dates
      - 2/9: Prototypes due
+     - 2/14: Blue Planet to meet with Company
      - 2/28: Deadline to meet with companies about reverse pitch

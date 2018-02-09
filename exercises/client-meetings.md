@@ -5,7 +5,7 @@ This is a guide to help students prepare for client meetings. Listed are potenti
 ### Question:
 Walk me through your design process. What steps do you take? _How involved should your clients be_
 
-### Respones:
+### Response:
 This is an opportunity for the team to show you how they approached their work. You want to express evidence that the team thought hard about the problem they’re trying to solve, and why they came up with that solution. You also want to make sure that the client has opportunities to review the work and give feedback.
 
 ### Question:

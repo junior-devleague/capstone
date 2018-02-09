@@ -14,7 +14,7 @@ What are the milestones for this project?
 ### Response:
 Explain the steps to complete the project. Make note that things may change after initial development starts to manage your clients expectations. Be clear that you will communicate changes throughout the project.
 
-## Question:
+### Question:
 Can you add a feature to the proposed solution?
 
 ### Response:

@@ -718,3 +718,16 @@ Format of the class was as follows:
      - 2/9: Prototypes due
      - 2/14: Blue Planet to meet with Company
      - 2/28: Deadline to meet with companies about reverse pitch
+
+# Class Recap - Week 24 - 2/9/2018 9:25am - 10:50am
+ Format of the class was as follows:
+   - Lanakila 
+     - Getting SNS to work so they can send out mass sms messages
+   - Blue Planet
+     - Working on creating a better button clicker game, where a player would click on bad energy buildings so that good energy bar goes up
+   - Nordstrom
+     - loading s3 bucket with images then analyzing it with another image to get similar products
+     
+   - Important Dates
+     - 2/14: Blue Planet to meet with Company
+     - 2/28: Deadline to meet with companies about reverse pitch

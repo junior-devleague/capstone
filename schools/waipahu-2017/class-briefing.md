@@ -732,7 +732,7 @@ Format of the class was as follows:
      - 2/14: Blue Planet to meet with Company
      - 2/28: Deadline to meet with companies about reverse pitch
      
-# Class Recap - Week 24 - 2/14/2018 9:32am - 10:57am
+# Class Recap - Week 25 - 2/14/2018 9:32am - 10:57am
  Format of the class was as follows:
    - Lanakila 
      - Getting SNS to work so they can send out mass sms messages

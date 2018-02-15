@@ -678,7 +678,7 @@ Format of the class was as follows:
      - 2/7: Prototypes due
      - 2/28: Deadline to meet with companies about reverse pitch
  
-   # Class Recap - Week 23 - 2/2/2018 9:25am - 10:50am
+ # Class Recap - Week 23 - 2/2/2018 9:25am - 10:50am
  Format of the class was as follows:
    - Students finished up emails to client, proof read and have been sent. 
    - Continued to work on prototyping.
@@ -687,7 +687,7 @@ Format of the class was as follows:
      - 2/7: Prototypes due
      - 2/28: Deadline to meet with companies about reverse pitch
      
-   # Class Recap - Week 24 - 2/5/2018 8:52am - 9:32am
+ # Class Recap - Week 24 - 2/5/2018 8:52am - 9:32am
  Format of the class was as follows:
    - Lanakila 
      - Trying to get polly to work
@@ -730,4 +730,19 @@ Format of the class was as follows:
      
    - Important Dates
      - 2/14: Blue Planet to meet with Company
+     - 2/28: Deadline to meet with companies about reverse pitch
+     
+# Class Recap - Week 24 - 2/14/2018 9:32am - 10:57am
+ Format of the class was as follows:
+   - Lanakila 
+     - Getting SNS to work so they can send out mass sms messages
+     - Meeting with company Sunday 2/18 on skype 1pm
+   - Blue Planet
+     - Updated button clicker game to become more interactive
+     - Meeting with company Friday 2/16 at 10am in person
+   - Nordstrom
+     - loading s3 bucket with images then analyzing it with another image to get similar products
+     - Meeting with company Friday 2/16; time and location TBA
+     
+   - Important Dates
      - 2/28: Deadline to meet with companies about reverse pitch

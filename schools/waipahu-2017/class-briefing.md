@@ -732,6 +732,9 @@ Format of the class was as follows:
      - 2/14: Blue Planet to meet with Company
      - 2/28: Deadline to meet with companies about reverse pitch
      
+# Class Recap - Week 25 - 2/12/2018 8:52am - 9:32am
+  No Class
+     
 # Class Recap - Week 25 - 2/14/2018 9:32am - 10:57am
  Format of the class was as follows:
    - Lanakila 
@@ -746,3 +749,36 @@ Format of the class was as follows:
      
    - Important Dates
      - 2/28: Deadline to meet with companies about reverse pitch
+
+# Class Recap - Week 25 - 2/16/2018 9:25am - 10:50am
+ Format of the class was as follows:
+   - Lanakila 
+     - Getting SNS to work so they can send out mass sms messages
+     - Meeting with company Sunday 2/18 on skype 1pm
+   - Blue Planet
+     - Updated button clicker game to become more interactive
+     - Met with Griff from Blue Planet
+        - Griff was very exccited about the project
+        - Came up with good ideas to improve the overall game
+        - Players will be giving facts after each level
+   - Nordstrom
+     - loading s3 bucket with images then analyzing it with another image to get similar products
+     - Meeting with company Friday 2/16 on Skype at 3pm
+     
+   - Important Dates
+     - 2/28: Deadline to meet with companies about reverse pitch
+     
+ # Class Recap - Week 26 - 2/21/2018 9:32am - 10:57am
+ Format of the class was as follows:
+   - Lanakila 
+     - Still getting SNS to work so they can send out mass sms messages
+     - Met with Lori from Lanakila
+        - Overall good conversation
+        - Cindy wanted it to work with LAN lines, but students made it clear it was a stretch goal
+        - Students and Cindy agreed that mvp will be sending messages through sms and email
+   - Blue Planet
+     - Getting into building randomizer on map
+   - Nordstrom
+     - Met with Cindy from Nordstrom
+      - Nordstrom already implemented image rekognition idea
+      - Students will now be working on quagga barcode idea

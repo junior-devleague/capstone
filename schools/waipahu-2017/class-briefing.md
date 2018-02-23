@@ -797,7 +797,6 @@ Format of the class was as follows:
     - Breaking down concepts through live-code
     - How to delegate specific tasks
     - Lecture Dates: Please see Roadmap https://docs.google.com/spreadsheets/d/194BMbvKJpO68G5CD_RtzwRtasP2eHtFb2z2smqRO6OE/edit#gid=0
-  - Group notes
    - Lanakila 
      - Note: Zak and Ian missing from class due to ACT Prep
      * Angela: Working on setting up HTML and CSS based on wireframes

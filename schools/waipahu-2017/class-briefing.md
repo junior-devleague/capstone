@@ -782,3 +782,33 @@ Format of the class was as follows:
      - Met with Cindy from Nordstrom
       - Nordstrom already implemented image rekognition idea
       - Students will now be working on quagga barcode idea
+
+ # Class Recap - Week 26 - 2/23/2018 9:25am - 10:50am
+ Format of the class was as follows:
+  - Started micromanaging each group by giving very specific tasks in their github projects
+  - Will have students slack us update us by the end of everyday and will be answering these questions:
+    - What each team member is working on today
+    - What is the progress on each task being worked on
+    - What will be worked on next
+    - Are there  any roadblocks
+    - Any updates from clients
+    - Any other comments you want to include
+  - Sat down with each group. Explained how will lecture/live-code each group's project. We will go over the following on lecture day:
+    - Breaking down concepts through live-code
+    - How to delegate specific tasks
+    - Lecture Dates: Please see Roadmap https://docs.google.com/spreadsheets/d/194BMbvKJpO68G5CD_RtzwRtasP2eHtFb2z2smqRO6OE/edit#gid=0
+  - Group notes
+   - Lanakila 
+     - Note: Zak and Ian missing from class due to ACT Prep
+     * Angela: Working on setting up HTML and CSS based on wireframes
+     * Zak: Working on lambda functions and converting python to js
+     * Ian: Working on 2nd lambda function
+   - Blue Planet
+     - Note: Mark and Kyle missing from class due to ACT Prep
+     * Mark: Working on functionality of randomizer game. Waiting on update
+     * Kyle: Updating wireframe, contacting griff for images
+     * Dylan: Working on HTML and CSS based on wireframe
+   - Nordstrom
+     * Kayla: Researching about Quagga and Stripe, Setting up HTML and CSS
+     * Zedrick: Researching Quagga, set up quagga prototype
+     * Jomari: Researching about Stripe, set up Stripe account

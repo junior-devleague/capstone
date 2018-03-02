@@ -811,3 +811,17 @@ Format of the class was as follows:
      * Kayla: Researching about Quagga and Stripe, Setting up HTML and CSS
      * Zedrick: Researching Quagga, set up quagga prototype
      * Jomari: Researching about Stripe, set up Stripe account
+     
+ # Class Recap - Week 26 - 2/28/2018 9:32am - 10:57am
+ Format of the class was as follows:
+  - Had to push back lecture for blue planet because half the students were at science fair
+   - Lanakila 
+     - Note: Zak, Angela, Ian missing from class due to science fair
+     - Still working on setting up SNS
+     - Will no longer use Polly(stretch goal
+   - Blue Planet
+     - Note: Mark and Dylan missing from class due to science fair
+     - We provided Mark the skeleton code for his project
+   - Nordstrom
+     - We helped the group search up the code to make qugga work on desktop
+     _ They are currently looking into heroku so that they can scan on phone

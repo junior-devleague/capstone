@@ -818,10 +818,26 @@ Format of the class was as follows:
    - Lanakila 
      - Note: Zak, Angela, Ian missing from class due to science fair
      - Still working on setting up SNS
-     - Will no longer use Polly(stretch goal
+     - Will no longer use Polly(stretch goal)
    - Blue Planet
      - Note: Mark and Dylan missing from class due to science fair
      - We provided Mark the skeleton code for his project
    - Nordstrom
      - We helped the group search up the code to make qugga work on desktop
      _ They are currently looking into heroku so that they can scan on phone
+     
+ # Class Recap - Week 26 - 3/2/2018 9:25am - 10:50am
+ Format of the class was as follows:
+  - Decided to sit down with each group and walk over the skeleton code of each of their projects
+   - Lanakila 
+     - Successfully able to set with SNS with storing mp3 messages in database
+     - Next Tasks: create topic, send message, add subcribers in client side
+   - Blue Planet
+     - Went over game skeleton code with the rest of members
+     - Team has a more clear idea of how to program their game
+     - Sent upated wireframe to jamie to update design
+     - Next Tasks: bubble dissapears when you click, game stops when timer is up, making bubbles randomly generate within certain areas
+   - Nordstrom
+     - Running into issues deploying quagga scanner in heroku
+     - Continuing to set up a stripe prototype by bringing in test data
+     - Next Task: continue to get barcode scanner fully deployed, figuring out logic to add all product prices and sending it to stripe

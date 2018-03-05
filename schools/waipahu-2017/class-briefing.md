@@ -841,3 +841,18 @@ Format of the class was as follows:
      - Running into issues deploying quagga scanner in heroku
      - Continuing to set up a stripe prototype by bringing in test data
      - Next Task: continue to get barcode scanner fully deployed, figuring out logic to add all product prices and sending it to stripe
+     
+ # Class Recap - Week 27 - 3/5/2018 8:52am - 9:32am
+ Format of the class was as follows:
+  - NOTE: Angela, Ian, and Dylan will not be attending class Wednesday 3/14
+   - Lanakila 
+     - Remaking UI with drag and drop
+     - Next Tasks: Working on create topic, send message, add subcribers in client side. Will be working with connecting client to lambdas
+   - Blue Planet
+     - Created power bars, menu page
+     - Next Tasks: bubble dissapears when you click, game stops when timer is up, making bubbles randomly generate within certain areas, keep energy bar from going limit
+   - Nordstrom
+     - Running into issues deploying quagga scanner in heroku
+     - Continuing to set up a stripe prototype by bringing in test data
+     - Next Task: continue to get barcode scanner fully deployed, figuring out logic to add all product prices and sending it to stripe, get frontend 40% complete
+

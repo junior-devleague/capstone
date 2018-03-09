@@ -856,7 +856,7 @@ Format of the class was as follows:
      - Continuing to set up a stripe prototype by bringing in test data
      - Next Task: continue to get barcode scanner fully deployed, figuring out logic to add all product prices and sending it to stripe, get frontend 40% complete
 
- # Class Recap - Week 27 - 3/7/2018 8:52am - 9:32am
+ # Class Recap - Week 27 - 3/7/2018 9:32am - 10:57am
  Format of the class was as follows:
   - NOTE: Angela, Ian, and Dylan will not be attending class Wednesday 3/14
    - Lanakila 
@@ -868,3 +868,16 @@ Format of the class was as follows:
    - Nordstrom
      - Ran into issues deploying and getting camera to scan, Jay just figured it out and will help Kayla in slack
      - Mel helped Zedrick set up stripe prototype
+
+# Class Recap - Week 27 - 3/7/2018 9:25am - 10:50am
+ Format of the class was as follows:
+  - NOTE: Angela, Ian, and Dylan will not be attending class Wednesday 3/14
+   - Lanakila 
+     - Looking into postgres relational databases
+     - Figuring out CORS issue with post
+   - Blue Planet
+     - Completed on stopping game with timer
+     - Able to remove bubbles when clicked
+   - Nordstrom
+     - Successfully deployed quagga on heroku
+     - Setting up stripe with client side

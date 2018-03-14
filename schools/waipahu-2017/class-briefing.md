@@ -881,3 +881,33 @@ Format of the class was as follows:
    - Nordstrom
      - Successfully deployed quagga on heroku
      - Setting up stripe with client side
+     
+# Class Recap - Week 28 - 3/12/2018 8:52am - 9:32am
+ Format of the class was as follows:
+  - NOTE: Angela, Ian, and Dylan will not be attending class Wednesday 3/14
+   - Lanakila 
+     - Looking into postgres relational databases
+     - Looking into relational databases using dynamoDB
+   - Blue Planet
+     - Working on constraining bubbles within island
+     - Kyle working on pause function of the game
+   - Nordstrom
+     - Successfully deployed quagga on heroku
+     - Setting up stripe with client side
+     - Working on creating mobile view frontend
+     
+# Class Recap - Week 28 - 3/12/2018 8:52am - 9:32am
+ Format of the class was as follows:
+  - NOTE: Angela, Ian, and Dylan are not in class
+   - Lanakila 
+     - Creating prototype with dynamodb relational 
+   - Blue Planet
+     - Working on constraining bubbles within island
+     - Pause not working correctly 
+     - Bubbles need to fade out if they have not been clicked in a while
+   - Nordstrom
+     - Successfully deployed quagga on heroku
+     - Setting up stripe with client side
+     - Hooking up frontend with quagga deployed app
+     - Working on creating mobile view frontend
+

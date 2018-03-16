@@ -896,7 +896,7 @@ Format of the class was as follows:
      - Setting up stripe with client side
      - Working on creating mobile view frontend
      
-# Class Recap - Week 28 - 3/12/2018 8:52am - 9:32am
+# Class Recap - Week 28 - 3/15/2018 8:52am - 9:32am
  Format of the class was as follows:
   - NOTE: Angela, Ian, and Dylan are not in class
    - Lanakila 
@@ -910,4 +910,16 @@ Format of the class was as follows:
      - Setting up stripe with client side
      - Hooking up frontend with quagga deployed app
      - Working on creating mobile view frontend
+     
+# Class Recap - Week 28 - 3/16/2018 9:25am - 10:50am
+ Format of the class was as follows:
+   - Lanakila 
+     - Will be spinning up Postgres in AWS RDS
+     - Working on add message function in front end
+   - Blue Planet
+     - Working on constraining bubbles within island
+     - Bubbles need to fade out if they have not been clicked in a while
+   - Nordstrom
+     - Team was working on seperate github repos, currently workin gon putting all work in one github repo
+     - Will be working on sending frontend data to backend stripe to run transaction
 

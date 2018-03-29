@@ -923,3 +923,12 @@ Format of the class was as follows:
      - Team was working on seperate github repos, currently workin gon putting all work in one github repo
      - Will be working on sending frontend data to backend stripe to run transaction
 
+# Class Recap - Week 29 - 3/28/2018 9:32am - 10:57am
+ Format of the class was as follows:
+   - Lanakila 
+     - Hooking up the backend with the frontend
+   - Blue Planet
+     - working on restarting game when it ends
+   - Nordstrom
+     - Succesfully hooked up stripe and quagga
+     - Will now work on sending test data to stripe

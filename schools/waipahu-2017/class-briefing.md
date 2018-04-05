@@ -932,3 +932,25 @@ Format of the class was as follows:
    - Nordstrom
      - Succesfully hooked up stripe and quagga
      - Will now work on sending test data to stripe
+     
+# Class Recap - Week 30 - 4/2/2018 8:52am - 9:32am
+ Format of the class was as follows:
+   - Lanakila 
+     - fixing a few bugs when sending quick message
+   - Blue Planet
+     - Adding new map
+     - Starting to add facts
+   - Nordstrom
+     - Trouble getting picture data to backend
+     
+# Class Recap - Week 30 - 4/4/2018 9:32am - 10:57am
+ Format of the class was as follows:
+   - Lanakila 
+     - fixing a few bugs when sending quick message
+     - fixing some CSS issues
+   - Blue Planet
+     - Resizing new map
+     - Connecting with Griff to add facts into the game
+   - Nordstrom
+     - Trouble getting picture data to backend
+     - Running into issues deploying camera to heroku

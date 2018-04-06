@@ -954,3 +954,14 @@ Format of the class was as follows:
    - Nordstrom
      - Trouble getting picture data to backend
      - Running into issues deploying camera to heroku
+     
+# Class Recap - Week 30 - 4/6/2018 9:25am - 10:50am
+ Format of the class was as follows:
+   - Lanakila 
+     - working on setting up mobile view
+   - Blue Planet
+     - Adding features to google maps api
+     - Adding more facts
+   - Nordstrom
+     - Able to scan data from picture
+     - Working on polishing UI

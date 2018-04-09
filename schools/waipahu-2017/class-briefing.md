@@ -965,3 +965,18 @@ Format of the class was as follows:
    - Nordstrom
      - Able to scan data from picture
      - Working on polishing UI
+     
+# Class Recap - Week 31 - 4/9/2018 8:52am - 9:32am
+ Format of the class was as follows:
+   - Lanakila 
+     - adding clone feature so that subscriber can be in multiple groups
+     - Polising up 
+     - Met MVP
+   - Blue Planet
+     - Adding features to google maps api
+     - Added quiz after each level
+     - Met MVP
+   - Nordstrom
+     - Met MVP
+     - Working on the frontend
+     - Starting to look into EC2 deployment

@@ -980,3 +980,24 @@ Format of the class was as follows:
      - Met MVP
      - Working on the frontend
      - Starting to look into EC2 deployment
+     
+# Class Recap - Week 31 - 4/11/2018 9:32am - 10:57am
+ Format of the class was as follows:
+   - Lanakila 
+     - Team is at STEM Conference
+   - Blue Planet
+     - Team is at STEM Conference
+   - Nordstrom
+     - Having roadblocks with the front end
+     
+ # Class Recap - Week 32 - 4/16/2018 9:25am - 10:50am
+ Format of the class was as follows:
+   - Lanakila 
+     - Finishing up quick send functionality
+     - Finishing up mobile view
+   - Blue Planet
+     - adding sound effects
+     - adding fact data into quizes
+   - Nordstrom
+     - Still having roadblocks with the frontend
+     - Will be sending them updated designs

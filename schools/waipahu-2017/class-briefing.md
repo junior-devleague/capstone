@@ -1001,3 +1001,28 @@ Format of the class was as follows:
    - Nordstrom
      - Still having roadblocks with the frontend
      - Will be sending them updated designs
+
+ # Class Recap - Week 32 - 4/18/2018 9:32am - 10:57am
+ Format of the class was as follows:
+   - Lanakila 
+     - 70% complete on mobile view
+   - Blue Planet
+     - adding sound effects
+     - adding fact data into quizes
+     - Balancing game levels
+   - Nordstrom
+     - Working on frontend with new designs
+     
+ # Class Recap - Week 32 - 4/20/2018 9:25am - 10:50am
+ Format of the class was as follows:
+   - Lanakila 
+     - 80% complete on mobile view
+     - Fixing a few bugs on frontend
+   - Blue Planet
+     - adding sound effects
+     - adding fact data into quizes
+     - Balancing game levels
+     - Debugging
+   - Nordstrom
+     - Working on frontend with new designs
+     - Will set up lecture for deployment next friday

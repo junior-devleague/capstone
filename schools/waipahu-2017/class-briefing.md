@@ -1040,3 +1040,19 @@ Format of the class was as follows:
    - Nordstrom
      - Continuing on working on frontend with new designs
      - Deployment lecture coming this friday
+     
+# Class Recap - Week 33 - 4/25/2018 9:32am - 10:57am
+ Format of the class was as follows:
+   - Lanakila 
+     - 90% complete on mobile view
+     - Fixing bug when cloning subscribers to different groups
+     - Working on build instructions
+     - Need to work on updating readme
+   - Blue Planet
+     - updated quiz facts
+     - deployed sucessfully on s3
+     - need google maps to show up on static s3 page
+   - Nordstrom
+     - Fully functional working app
+     - Polishing up the frontend
+     - Deployment lecture coming this friday

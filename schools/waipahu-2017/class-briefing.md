@@ -1013,7 +1013,7 @@ Format of the class was as follows:
    - Nordstrom
      - Working on frontend with new designs
      
- # Class Recap - Week 32 - 4/20/2018 9:25am - 10:50am
+ # Class Recap - Week 32 - 4/20/2018 9:25am - 10:45am
  Format of the class was as follows:
    - Lanakila 
      - 80% complete on mobile view
@@ -1055,4 +1055,17 @@ Format of the class was as follows:
    - Nordstrom
      - Fully functional working app
      - Polishing up the frontend
-     - Deployment lecture coming this friday
+     - Deployment lecture coming next wedenesday
+
+# Class Recap - Week 33 - 4/27/2018 9:25am - 10:45am
+ Format of the class was as follows:
+   - Lanakila 
+     - 100% complete on mobile view
+     - Need to work on updating readme
+     - Need to fix merge conflicts
+   - Blue Planet
+     - updated quiz facts
+     - polishing up with sound and graphics
+   - Nordstrom
+     - Polishing up the frontend
+     - Need to update fonts, padding, and colors

@@ -1069,3 +1069,17 @@ Format of the class was as follows:
    - Nordstrom
      - Polishing up the frontend
      - Need to update fonts, padding, and colors
+     
+ # Class Recap - Week 34 - 4/30/2018 8:52am - 9:32am
+ Format of the class was as follows:
+   - Lanakila 
+     - Lots of merge conflicts from mobile view branch merge
+     - Able to fix master branch, Angela and Ian pull latest from master to their mobile branch
+     - Testing and looking for bugs
+   - Blue Planet
+     - Updated game with sound
+     - Waiting for Griff for a few more facts
+     - Testing and looking for bugs
+   - Nordstrom
+     - Fixed up front end
+     - Adding few more design features

@@ -1083,3 +1083,16 @@ Format of the class was as follows:
    - Nordstrom
      - Fixed up front end
      - Adding few more design features
+     
+ # Class Recap - Week 34 - 5/2/2018 9:32am - 10:57am
+ Format of the class was as follows:
+   - Lanakila 
+     - Stretch Goal adding Authentication
+     - Fixing bugs in mobile view
+   - Blue Planet
+     - Updating Readme
+     - Waiting for Griff for a few more facts
+     - Testing and looking for bugs
+   - Nordstrom
+     - Fully Delployed
+     - Polishing up app

@@ -1096,3 +1096,15 @@ Format of the class was as follows:
    - Nordstrom
      - Fully Delployed
      - Polishing up app
+     
+   # Class Recap - Week 34 - 5/5/2018 9:25am - 10:45am
+ Format of the class was as follows:
+   - Lanakila 
+     - Stretch Goal adding Authentication
+     - Fixing bugs in mobile view
+   - Blue Planet
+     - Updating Readme
+     - Waiting for Griff for a few more facts
+     - Testing and looking for bugs
+   - Nordstrom
+     - Polishing up app

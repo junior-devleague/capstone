@@ -1108,3 +1108,17 @@ Format of the class was as follows:
      - Testing and looking for bugs
    - Nordstrom
      - Polishing up app
+
+  # Class Recap - Week 35 - 5/7/2018 8:52am - 9:35am
+ Format of the class was as follows:
+   - Lanakila 
+     - Working on presentation
+     - Fixing bugs in mobile view
+     - Will no longer do authentication
+   - Blue Planet
+     - Working on presentation
+     - Last minute bugs
+     - Will need to redeploy by thursday
+   - Nordstrom
+     - Polishing up app
+     - Working on presentation/demo

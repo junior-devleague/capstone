@@ -1122,3 +1122,12 @@ Format of the class was as follows:
    - Nordstrom
      - Polishing up app
      - Working on presentation/demo
+     
+# Class Recap - Week 36 - 5/9/2018 9:32am - 10:57am
+ Format of the class was as follows:
+   - Lanakila 
+     - Working on presentation
+   - Blue Planet
+     - Working on presentation
+   - Nordstrom
+     - Working on presentation
